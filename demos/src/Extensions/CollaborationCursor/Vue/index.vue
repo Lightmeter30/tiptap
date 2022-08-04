@@ -41,7 +41,7 @@ export default {
         CollaborationCursor.configure({
           provider: this.provider,
           user: {
-            name: 'Cyndi Lauper',
+            name: 'Cyndi Lauper111',
             color: '#f783ac',
           },
         }),
